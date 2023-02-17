@@ -4422,7 +4422,7 @@ a:hover, span:hover {
   left: 0;
   bottom: 0;
   right: 1px;
-  background: #18191d;
+  background: #818c99;
   z-index: -1;
 }
 
@@ -9889,7 +9889,7 @@ a:hover, span:hover {
   margin-top: -35px;
   width: 70px;
   height: 70px;
-  background: linear-gradient(0deg, #ffffff, #797979, #000000);
+  border: 2px solid #ffbc36;
   opacity: .3;
 }
 
